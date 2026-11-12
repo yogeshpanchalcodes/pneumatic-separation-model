@@ -22,7 +22,7 @@ A particle-level model of the pulsated pneumatic separator of Zhu et al. (2021),
 
 ## How to run
 
-Open the notebook in Google Colab and choose Runtime > Run all. It needs only NumPy, SciPy, pandas, Matplotlib and JAX, which Colab provides, and takes about three minutes on a CPU runtime.
+Open the notebook in Google Colab and choose Runtime > Run all. It needs only NumPy, SciPy, pandas, Matplotlib and JAX, which Colab provides. The run takes about 11 minutes on Colab's CPU runtime.
 
 ## References
 
