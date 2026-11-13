@@ -9,7 +9,7 @@ A particle-level model of the pulsated pneumatic separator of Zhu et al. (2021),
 | File | Content |
 |---|---|
 | `Project_Check_In_Final_Project.ipynb` | The project notebook with the model, the code and all results |
-| `separator_animation.mp4` | Short video (52 s) that explains the separator, shows 200 foils in steady and in pulsed air flow at 70 m³/h, and compares the model with measurements |
+| `separator_animation.mp4` | Short video (82 s) that explains the separator, shows 200 foils in steady and in pulsed air flow at 70 m³/h, repeats the test at nine flow rates and compares the model with measurements |
 | `separator_animation.gif` | The simulation part of the video, shown above |
 
 ## The model in brief
